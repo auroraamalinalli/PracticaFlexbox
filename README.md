@@ -24,4 +24,4 @@ Contiene la siguientes seccion:
 Poner en practica los conociemientos que hemos adquirido de HTML5 y CSS3.
 
 ## Link a Demo 🖼️
-Aquí puedes ver mi proyecto terminado: [Practica de floxbox](https://clon-de-google-theta.vercel.app/)
+Aquí puedes ver mi proyecto terminado: [Practica de floxbox](https://practica-flexbox.vercel.app/)
